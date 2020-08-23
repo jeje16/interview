@@ -1,0 +1,10 @@
+.searchbar{
+    display:flex;
+    width:100%;
+    padding: 10px;
+    justify-content: space-around;
+}
+
+@media only screen and (max-width:600px){
+    .searchbar{font-size:12px;}
+}

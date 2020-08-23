@@ -1,0 +1,18 @@
+.mylist{
+    position: absolute;
+    left:10px;
+    bottom:3px;
+    color:white;
+    text-decoration:none;
+}
+.header{
+    text-align:center;
+    color:white;
+    background-color:rgb(41, 36, 112);
+    position:relative;
+    padding:10px;
+} 
+.head{
+    color:white;
+    text-decoration:none;
+}
